@@ -356,7 +356,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sayush Kamat](https://sayushkamat.com)
 - [Scott Spence](https://scottspence.com)
 - [Sedanur Yıldız](https://sedanuryildiz.com)
-- [Seth  Hall](https://sethhallcreative.com)
+- [Seth Hall](https://sethhallcreative.com)
 - [Serhii Hidenko](https://lookmy.dev/)
 - [Shaan Khan](https://www.shaankhan.dev/)
 - [Shahid Shaikh](http://shahidshaikh.com)
@@ -420,5 +420,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## Z
 
+- [Zillur](https://mdzillurrahman.netlify.app/)
 - [Ziyad](https://ziyadsk.github.io/portfolio-V2/)
 - [Zonayed Ahmed](https://zonayed.me/)
